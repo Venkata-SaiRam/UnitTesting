@@ -1,0 +1,3 @@
+all:Hacs.class
+Hacs.class:Hacs.java
+	javac *.java
